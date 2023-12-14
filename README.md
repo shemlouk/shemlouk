@@ -7,13 +7,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shemlouk@gmail.com)
 </div>
 
-## 🙋‍♂️ About Me:
-
-  - 🔭 I’m currently **working** on: [weboard](https://github.com/weboardz)
-  - 🌱 I’m currently **learning**: [nestjs](https://nestjs.com/)
-  - 🤝 I’m **looking to work** with: web development
-  - 👨‍💻 All of my **projects** are available at: **portfolio under construction** 🚧
-
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
